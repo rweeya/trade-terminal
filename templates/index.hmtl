@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Auto Trade</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background: #0a0e27;
+            color: #00ff88;
+            font-family: monospace;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 48px;
+            text-shadow: 0 0 20px #00ff88;
+        }
+        .status {
+            font-size: 24px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>⚡ AUTO TRADE ⚡</h1>
+    <div class="status">
+        🟢 СЕРВЕР РАБОТАЕТ!
+    </div>
+    <div class="status">
+        ✅ Flask + Render настроены правильно
+    </div>
+</body>
+</html>
